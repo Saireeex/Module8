@@ -1,0 +1,16 @@
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\UserManagementApp.MainForm.resources
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\Module8.csproj.GenerateResource.cache
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\Module8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\Module8.AssemblyInfoInputs.cache
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\Module8.AssemblyInfo.cs
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\Module8.csproj.CoreCompileInputs.cache
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\bin\Debug\net8.0-windows\Module8.exe
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\bin\Debug\net8.0-windows\Module8.deps.json
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\bin\Debug\net8.0-windows\Module8.runtimeconfig.json
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\bin\Debug\net8.0-windows\Module8.dll
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\bin\Debug\net8.0-windows\Module8.pdb
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\Module8.dll
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\refint\Module8.dll
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\Module8.pdb
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\Module8.genruntimeconfig.cache
+D:\Лабораторные 3 семестр\Практика\Модуль8\Module8\obj\Debug\net8.0-windows\ref\Module8.dll
